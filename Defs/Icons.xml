@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>Agarilux</defName>
+		<label>Agarilux</label>
+		<description>Agarilux</description>
+		<icon>PawnBadge/Agarilux</icon>
+	</RR_PawnBadge.BadgeDef>
+
+</Defs>
